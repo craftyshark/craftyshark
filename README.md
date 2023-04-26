@@ -1,18 +1,29 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+![header](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
-<!--
-**craftyshark/craftyshark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Jose Fernando Jimenez Chavez 👋
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/craftyshark?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🚀
+- 🎓 Bachelor of Computer Science (Expected: 05/2023) at California State University, Fresno
+- 🌐 Bilingual fluency in English and Spanish
+- 🌟 Proven track record in analytical, strategic thinking, and planning skills
+- 💼 Experienced in retail leadership, software engineering, and IT services
+
+### Currently Working On 🛠️
+- Digital Applications Support Student Assistant at Fresno State Technology Services
+- Geopathways Metaverse Intern at United States Geological Survey
+
+### Technical Skills 💻
+- **Programming Languages:** HTML5 / CSS, XSLT, JavaScript, C++, Python, Java, SQL, PHP, Node.js, Express.js, React.js, A-Frame, REST APIs
+- **Software:** Git, GitHub, VS Code, IntelliJ, SQLite, MySQL, PostgreSQL, easyRTC
+- **Related Technical Skills:** Full-Stack Web Development, Heroku, Azure, AWS hosting, Accessible Website Training, Team Dynamix, VR Development, Agile, Jira
+
+### Connect with Me 📫
+- **LinkedIn:** [linkedin.com/in/jose-jimenez-chavez](https://www.linkedin.com/in/jose-jimenez-chavez)
+- **GitHub:** [github.com/craftyshark](https://github.com/craftyshark)
+- **Email:** jimenezjosef97@gmail.com
+
+### Fun Fact ⚡
+- I enjoy playing and developing video games during my free time!
+
