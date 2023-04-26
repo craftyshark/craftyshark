@@ -24,6 +24,12 @@
 - **GitHub:** [github.com/craftyshark](https://github.com/craftyshark)
 - **Email:** jimenezjosef97@gmail.com
 
+### GitHub Stats 📈
+![Craftyshark's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftyshark&show_icons=true&theme=radical)
+
+### Top Languages 💬
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftyshark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Fun Fact ⚡
 - I enjoy playing and developing video games during my free time!
 
