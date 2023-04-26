@@ -4,6 +4,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/craftyshark?style=social)
 
+### GitHub Stats 📈
+![Craftyshark's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftyshark&show_icons=true&theme=radical)
+
+### Top Languages 💬
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftyshark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About Me 🚀
 - 🎓 Bachelor of Computer Science (Expected: 05/2023) at California State University, Fresno
 - 🌐 Bilingual fluency in English and Spanish
@@ -23,12 +29,6 @@
 - **LinkedIn:** [linkedin.com/in/jose-jimenez-chavez](https://www.linkedin.com/in/jose-jimenez-chavez)
 - **GitHub:** [github.com/craftyshark](https://github.com/craftyshark)
 - **Email:** jimenezjosef97@gmail.com
-
-### GitHub Stats 📈
-![Craftyshark's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftyshark&show_icons=true&theme=radical)
-
-### Top Languages 💬
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftyshark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Fun Fact ⚡
 - I enjoy playing and developing video games during my free time!
